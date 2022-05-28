@@ -45,7 +45,7 @@ def create_pass(names, rolls):
 
 def send_mail(emails, names):
     Sender_Email = "sasivatsal7122@gmail.com"
-    Password = "Ap31et0975"
+    Password = "xxxxxxxxxx"
 
     for email, name in zip(emails, names):
         Reciever_Email = email
